@@ -115,7 +115,7 @@ int* distributeCandies(int candies, int num_people, int* returnSize){
 ```
 
 <div align="center">
-    <hr>
+    <hr style="height: 1px;">
     <br>
-    <img width="320px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
+    <img width="300px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>

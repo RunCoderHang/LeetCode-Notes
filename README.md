@@ -1,6 +1,13 @@
+
+[![GitHub stars](https://img.shields.io/github/stars/RunCoderHang/LeetCode-Notes?style=flat-square)](https://github.com/RunCoderHang/LeetCode-Notes/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RunCoderHang/LeetCode-Notes?color=green&label=forks&style=flat-square)](https://github.com/RunCoderHang/LeetCode-Notes/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/RunCoderHang/LeetCode-Notes?color=yellow&style=flat-square)](https://github.com/RunCoderHang/LeetCode-Notes/issues)
+
 ## LeetCode
 
 **LeetCode** 在 2020-03-01 推出了每日一题活动。借此打卡！
+
+[`Markdown-Emoji`](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/markdown-emoji.md)
 
 |   ID   |                                     Title                                      | Finish Time |  Java  |   C    |  C++   |                                             **Solve**                                              |
 |--------|--------------------------------------------------------------------------------|-------------|--------|--------|--------|----------------------------------------------------------------------------------------------------|
@@ -12,8 +19,9 @@
 | 1103   | [分糖果Ⅱ](https://leetcode-cn.com/problems/distribute-candies-to-people/)      | 2020-03-05  |        | :wink: |        | [Code](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/distribute-candies-to-people.md) |
 
 
+
 <div align="center">
-    <hr>
+    <hr style="height: 1px;">
     <br>
-    <img width="320px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
+    <img width="300px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>
