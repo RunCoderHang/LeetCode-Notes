@@ -130,7 +130,7 @@ void merge(int* A, int ASize, int m, int* B, int BSize, int n) {
 * 空间复杂度：O(1)
 
 <div align="center">
-    <hr style="height: 1px;">
+    <hr style="height:1px;"/>
     <br>
-    <img width="300px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
+    <img width="200px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>
