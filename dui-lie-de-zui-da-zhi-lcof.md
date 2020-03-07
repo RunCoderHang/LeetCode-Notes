@@ -1,4 +1,4 @@
-#### 一、LeetCode每日一题（七）：队列的最大值
+## 一、LeetCode每日一题（七）：队列的最大值
 
 请定义一个队列并实现函数 `max_value` 得到队列里的最大值，要求函数 `max_value` 、 `push_back` 和 `pop_front` 的均摊时间复杂度都是 `O(1)` 。
 
@@ -10,7 +10,9 @@
 输入: 
 ["MaxQueue","push_back","push_back","max_value","pop_front","max_value"]
 [[],[1],[2],[],[],[]]
-输出: [null,null,null,2,1,2]
+
+输出:
+ [null,null,null,2,1,2]
 ```
 
 **示例 2：**
@@ -19,7 +21,9 @@
 输入: 
 ["MaxQueue","pop_front","max_value"]
 [[],[],[]]
-输出: [null,-1,-1]
+
+输出:
+ [null,-1,-1]
 ```
 
 **限制：**
@@ -28,9 +32,9 @@
 * 1 <= value <= 10^5
 
 
-#### 二、思路
+## 二、思路
 
-###### 双端辅助队列
+#### 双端辅助队列
 
 毕竟题目要求说了，时间复杂度为 O(1) 。所以除了用空间换时间，还真想不到什么好办法。
 
@@ -46,7 +50,7 @@
     <img width="437px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/dui-lie-de-zui-da-zhi-lcof.gif"></img>
 </div>
 
-#### 三、代码实现
+## 三、代码实现
 
 ```c
 #define MAXSIZE 2048
