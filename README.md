@@ -18,6 +18,7 @@
 | 994    | [腐烂的橘子](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/rotting-oranges.md)                                   | 2020-03-04  |        | :wink: |        | [Link](https://leetcode-cn.com/problems/rotting-oranges)                           |
 | 1103   | [分糖果Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/distribute-candies-to-people.md)                         | 2020-03-05  |        | :wink: |        | [Link](https://leetcode-cn.com/problems/distribute-candies-to-people)              |
 | 面试题 | [和为s的连续正数序列](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.md) | 2020-03-06  |        | :wink: |        | [Link](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) |
+| 面试题 | [队列的最大值](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/dui-lie-de-zui-da-zhi-lcof.md)                      | 2020-03-07  |        | :wink: |        | [Link](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)               |
 
 
 ## Contact me
