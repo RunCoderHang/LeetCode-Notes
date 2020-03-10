@@ -22,8 +22,7 @@
 | 322    | [零钱兑换](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/coin-change.md)                                         | 每日一题 | 2020-03-08  |        | :confused: | :confused: | [Link](https://leetcode-cn.com/problems/coin-change/)                              |
 | 5      | [最长回文子串](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/longest-palindromic-substring.md)                   |          | 2020-03-08  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/longest-palindromic-substring/)            |
 | 121    | [买卖股票的最佳时机](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/best-time-to-buy-and-sell-stock.md)           | 每日一题 | 2020-03-09  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)          |
-
-
+| 543    | [二叉树的直径](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/diameter-of-binary-tree.md)                         | 每日一题 | 2020-03-10  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                  |
 
 
 ## Contact me
