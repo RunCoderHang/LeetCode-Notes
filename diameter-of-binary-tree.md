@@ -48,7 +48,7 @@
 左右子树的最大深度值进行计算：**`L + R + 1`**，可以得出该二叉树的最大直径。
 
 <div align="center">
-    <img width="280px" src="https://runcoderhang.github.io/thumbnails/diameter-of-binary-tree03.png">
+    <img width="280px" src="https://runcoderhang.github.io/thumbnails/diameter-of-binary-tree03.gif">
 </div>
 
 时间复杂度： **O(n)**
