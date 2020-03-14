@@ -25,7 +25,7 @@
 | 543    | [二叉树的直径](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/diameter-of-binary-tree.md)                                       | 每日一题 | 2020-03-10  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/diameter-of-binary-tree/)                         |
 | 1013   | [将数组分成和相等的三个部分](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/partition-array-into-three-parts-with-equal-sum.md) | 每日一题 | 2020-03-11  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) |
 | 1071   | [字符串的最大公因子](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/greatest-common-divisor-of-strings.md)                      | 每日一题 | 2020-03-12  |        | :wink:     | :confused: | [Link](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)              |
-
+| 169    | [多数元素](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/majority-element.md)                                                  | 每日一题 | 2020-03-13  | :wink: | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/majority-element/)                                |
 
 
 ## Contact me
