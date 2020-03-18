@@ -26,6 +26,11 @@
 | 1013   | [将数组分成和相等的三个部分](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/partition-array-into-three-parts-with-equal-sum.md) | 每日一题 | 2020-03-11  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) |
 | 1071   | [字符串的最大公因子](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/greatest-common-divisor-of-strings.md)                      | 每日一题 | 2020-03-12  |        | :wink:     | :confused: | [Link](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)              |
 | 169    | [多数元素](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/majority-element.md)                                                  | 每日一题 | 2020-03-13  | :wink: | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/majority-element/)                                |
+| 300    | [最长上升子序列](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/longest-increasing-subsequence.md)                              | 每日一题 | 2020-03-14  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/longest-increasing-subsequence/)                  |
+| 695    | [岛屿的最大面积](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/max-area-of-island.md)                                          | 每日一题 | 2020-03-15  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/max-area-of-island/)                              |
+| 面试题 | [字符串的压缩](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/compress-string-lcci.md)                                          | 每日一题 | 2020-03-16  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/compress-string-lcci/)                            |
+| 1160   | [拼写单词](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/find-words-that-can-be-formed-by-characters.md)                       | 每日一题 | 2020-03-17  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters)      |
+| 836    | [矩形重叠](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/rectangle-overlap.md)                                                 | 每日一题 | 2020-03-18  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/rectangle-overlap/)                               |
 
 
 ## Contact me
