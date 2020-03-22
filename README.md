@@ -34,6 +34,8 @@
 | 409    | [最长回文串](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/longest-palindrome.md)                                              | 每日一题 | 2020-03-19  |        | :wink:     | :wink:     | [Link](https://leetcode-cn.com/problems/longest-palindrome/)                              |
 | 面试题 | [最小的k个数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/zui-xiao-de-kge-shu-lcof.md)                                       | 每日一题 | 2020-03-20  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)                        |
 | 365    | [水壶问题](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/water-and-jug-problem.md)                                             | 每日一题 | 2020-03-21  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/water-and-jug-problem/)                           |
+| 945    | [使数组唯一的最小增量](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/minimum-increment-to-make-array-unique.md)                | 每日一题 | 2020-03-22  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)          |
+
 
 
 ## Contact me
