@@ -59,7 +59,7 @@
 循环上面的步骤时距离需要循环 `+1`，直到遍历完所有的海洋区域。最后得到的即是最远的海洋区域距离。，因为广度优先搜索的过程就是由近到远的过程。
 
 <div align="center">
-    <img width="450px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/BFS.gif"></img>
+    <img width="410px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/BFS.gif"></img>
 </div>
 
 如图所示，当 `distance = 4` 时，改成元素出队，下一层元素入队。随后，`distance = 5` 时本层元素出队，没有元素入队，退出循环。
