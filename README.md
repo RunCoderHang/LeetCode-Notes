@@ -41,6 +41,7 @@
 | 999    | [可以被一步捕获的棋子数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/available-captures-for-rook.md)                         | 每日一题 | 2020-03-26  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/available-captures-for-rook/)                     |
 | 914    | [卡牌分组](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/x-of-a-kind-in-a-deck-of-cards.md)                                    | 每日一题 | 2020-03-27  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)                  |
 | 820    | [单词的压缩编码](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/short-encoding-of-words.md)                                     | 每日一题 | 2020-03-28  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/short-encoding-of-words/)                         |
+| 162    | [地图分析](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/as-far-from-land-as-possible.md)                                      | 每日一题 | 2020-03-29  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)                    |
 
 
 ## Contact me
