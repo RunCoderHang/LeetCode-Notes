@@ -43,6 +43,8 @@
 | 820    | [单词的压缩编码](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/short-encoding-of-words.md)                                     | 每日一题 | 2020-03-28  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/short-encoding-of-words/)                          |
 | 162    | [地图分析](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/as-far-from-land-as-possible.md)                                      | 每日一题 | 2020-03-29  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)                     |
 | 面试题 | [圆圈中最后剩下的数字](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md)      | 每日一题 | 2020-03-30  | :wink: |            | :wink:     | [Link](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) |
+| 912    | [排序数组](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/sort-an-array.md)                                                     | 每日一题 | 2020-03-31  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/sort-an-array/)                                    |
+
 
 
 ## Contact me
