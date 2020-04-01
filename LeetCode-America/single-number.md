@@ -57,6 +57,10 @@ a ⊕ a = 0
 a ⊕ b ⊕ a = (a ⊕ a) ⊕ b = b
 ```
 
+对于这个方法，有个评论很有意思：
+
+>Seeing the solution 4,maybe is the difference between the intelligent and me.
+
 ```c++
 class Solution {
 public:

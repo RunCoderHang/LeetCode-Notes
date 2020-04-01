@@ -51,7 +51,7 @@
 
 |  ID |                                                    Title                                                     | Series | Finish Time | Java | C | C++ |                       Address                        |
 |-----|--------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|------------------------------------------------------|
-| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-numbe.md) | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/) |
+| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-number.md) | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/) |
 
 
 ## Contact me
