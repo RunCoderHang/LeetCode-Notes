@@ -47,6 +47,11 @@
 | 1111   | [有效括号的嵌套深度](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/maximum-nesting-depth-of-two-valid-parentheses-strings.md)  | 每日一题 | 2020-04-01  |        |            | :wink:     | [Link](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 
 
+## LeetCode_America
+
+|  ID |                                                    Title                                                     | Series | Finish Time | Java | C | C++ |                       Address                        |
+|-----|--------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|------------------------------------------------------|
+| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-numbe.md) | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/) |
 
 
 ## Contact me
