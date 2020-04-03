@@ -46,14 +46,18 @@
 | 912    | [排序数组](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/sort-an-array.md)                                                     | 每日一题 | 2020-03-31  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/sort-an-array/)                                          |
 | 1111   | [有效括号的嵌套深度](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/maximum-nesting-depth-of-two-valid-parentheses-strings.md)  | 每日一题 | 2020-04-01  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) |
 | 289    | [生命游戏](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/game-of-life.md)                                                      | 每日一题 | 2020-04-02  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/game-of-life/)                                           |
+| 8      | [字符串转换整数(atoi)](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/string-to-integer-atoi.md)                                | 每日一题 | 2020-04-03  | ✓    |   | ✓   | [Link](https://leetcode-cn.com/problems/string-to-integer-atoi/)                                 |
 
 
 ## LeetCode_America
 
-|  ID |                                                     Title                                                     | Series | Finish Time | Java | C | C++ |                       Address                        |
-|-----|---------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|------------------------------------------------------|
-| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-number.md) | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/) |
-| 202 | [Happy-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/happy-number.md)   | 30-Day | 2020-04-02  |      |   | ✓   | [Link](https://leetcode.com/problems/happy-number/)  |
+|  ID |                                                        Title                                                        | Series | Finish Time | Java | C | C++ |                         Address                         |
+|-----|---------------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|---------------------------------------------------------|
+| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-number.md)       | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/)    |
+| 202 | [Happy-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/happy-number.md)         | 30-Day | 2020-04-02  |      |   | ✓   | [Link](https://leetcode.com/problems/happy-number/)     |
+|  53 | [Maximum-Subarray](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/maximum-subarray.md) | 30-Day | 2020-04-03  |      |   | ✓   | [Link](https://leetcode.com/problems/maximum-subarray/) |
+
+
 
 
 
