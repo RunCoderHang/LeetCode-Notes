@@ -23,9 +23,8 @@
 
 <div align="center">
     <img width="661px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/silence-tribute.jpg"></img>
+    <p style="font-weight: 600; text-align: center;">英烈为国家舍生忘死，逝者同胞亦盼山河无恙。</p>
 </div>
-
-**英烈为国家舍生忘死，逝者同胞亦盼山河无恙。**
 
 <br>
 
@@ -64,8 +63,8 @@ public:
 };
 ```
 
-* 时间复杂度：$O(n^2)$
-* 空间复杂度：$O(1)$
+* 时间复杂度：**O(n^2)**
+* 空间复杂度：**O(1)**
 
 
 #### 2.优化：双指针
@@ -100,8 +99,8 @@ public:
 };
 ```
 
-* 时间复杂度：$O(n)$
-* 空间复杂度：$O(1)$
+* 时间复杂度：**O(n)**
+* 空间复杂度：**O(1)**
 
 <div align="center">
     <hr style="height:1px;"/>

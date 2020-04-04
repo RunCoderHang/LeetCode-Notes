@@ -20,9 +20,8 @@ Note:
 
 <div align="center">
     <img width="661px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/silence-tribute.jpg"></img>
+    <p style="font-weight: 600; text-align: center;">英烈为国家舍生忘死，逝者同胞亦盼山河无恙。</p>
 </div>
-
-**英烈为国家舍生忘死，逝者同胞亦盼山河无恙。**
 
 <br>
 
@@ -48,8 +47,8 @@ public:
 };
 ```
 
-* Space Complexity : $O(1)$
-* Time Complexity: $O(n)$
+* Space Complexity : **O(1)**
+* Time Complexity: **O(n)**
 
 
 #### 2.
@@ -80,8 +79,8 @@ public:
 };
 ```
 
-* Space Complexity : $O(1)$
-* Time Complexity: $O(n)$
+* Space Complexity : **O(1)**
+* Time Complexity: **O(n)**
 
 
 
