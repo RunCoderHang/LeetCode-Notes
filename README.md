@@ -49,6 +49,7 @@
 | 8      | [字符串转换整数(atoi)](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/string-to-integer-atoi.md)                                | 每日一题 | 2020-04-03  | ✓    |   | ✓   | [Link](https://leetcode-cn.com/problems/string-to-integer-atoi/)                                 |
 | 42     | [接雨水](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/trapping-rain-water.md)                                                 | 每日一题 | 2020-04-04  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/trapping-rain-water/)                                    |
 | 460    | [LFU缓存](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/lfu-cache.md)                                                          | 每日一题 | 2020-04-05  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/lfu-cache/)                                              |
+| 72     | [编辑距离](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/edit-distance.md)                                                     | 每日一题 | 2020-04-06  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/edit-distance/)                                          |
     
 
 ## LeetCode_America
@@ -60,6 +61,9 @@
 |  53 | [Maximum-Subarray](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/maximum-subarray.md)                                    | 30-Day | 2020-04-03  |      |   | ✓   | [Link](https://leetcode.com/problems/maximum-subarray/)                   |
 | 283 | [Move-Zeroes](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/move-zeroes.md)                                              | 30-Day | 2020-04-04  |      |   | ✓   | [Link](https://leetcode.com/problems/move-zeroes/)                        |
 | 122 | [Best-Time-to-Buy-and-Sell-Stock-Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/best-time-to-buy-and-sell-stock-ii.md) | 30-Day | 2020-04-05  |      |   | ✓   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+|  49 | [Group-Anagrams](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/group-anagrams.md)                                        | 30-Day | 2020-04-06  |      |   | ✓   | [Link](https://leetcode.com/problems/group-anagrams/)                     |
+
+
 
 
 
