@@ -50,19 +50,20 @@
 | 42     | [接雨水](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/trapping-rain-water.md)                                                 | 每日一题 | 2020-04-04  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/trapping-rain-water/)                                    |
 | 460    | [LFU缓存](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/lfu-cache.md)                                                          | 每日一题 | 2020-04-05  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/lfu-cache/)                                              |
 | 72     | [编辑距离](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/edit-distance.md)                                                     | 每日一题 | 2020-04-06  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/edit-distance/)                                          |
+| 面试题 | [旋转矩阵](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/rotate-matrix-lcci.md)                                                | 每日一题 | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/rotate-matrix-lcci/)                                     |
     
 
 ## LeetCode_America
 
-|  ID |                                                                         Title                                                                          | Series | Finish Time | Java | C | C++ |                                  Address                                  |
-|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|---------------------------------------------------------------------------|
-| 136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-number.md)                                          | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/)                      |
-| 202 | [Happy-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/happy-number.md)                                            | 30-Day | 2020-04-02  |      |   | ✓   | [Link](https://leetcode.com/problems/happy-number/)                       |
-|  53 | [Maximum-Subarray](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/maximum-subarray.md)                                    | 30-Day | 2020-04-03  |      |   | ✓   | [Link](https://leetcode.com/problems/maximum-subarray/)                   |
-| 283 | [Move-Zeroes](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/move-zeroes.md)                                              | 30-Day | 2020-04-04  |      |   | ✓   | [Link](https://leetcode.com/problems/move-zeroes/)                        |
-| 122 | [Best-Time-to-Buy-and-Sell-Stock-Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/best-time-to-buy-and-sell-stock-ii.md) | 30-Day | 2020-04-05  |      |   | ✓   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
-|  49 | [Group-Anagrams](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/group-anagrams.md)                                        | 30-Day | 2020-04-06  |      |   | ✓   | [Link](https://leetcode.com/problems/group-anagrams/)                     |
-
+|  ID  |                                                                         Title                                                                          | Series | Finish Time | Java | C | C++ |                                  Address                                  |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|------|---|-----|---------------------------------------------------------------------------|
+|  136 | [Single-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/single-number.md)                                          | 30-Day | 2020-04-01  |      |   | ✓   | [Link](https://leetcode.com/problems/single-number/)                      |
+|  202 | [Happy-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/happy-number.md)                                            | 30-Day | 2020-04-02  |      |   | ✓   | [Link](https://leetcode.com/problems/happy-number/)                       |
+|   53 | [Maximum-Subarray](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/maximum-subarray.md)                                    | 30-Day | 2020-04-03  |      |   | ✓   | [Link](https://leetcode.com/problems/maximum-subarray/)                   |
+|  283 | [Move-Zeroes](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/move-zeroes.md)                                              | 30-Day | 2020-04-04  |      |   | ✓   | [Link](https://leetcode.com/problems/move-zeroes/)                        |
+|  122 | [Best-Time-to-Buy-and-Sell-Stock-Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/best-time-to-buy-and-sell-stock-ii.md) | 30-Day | 2020-04-05  |      |   | ✓   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+|   49 | [Group-Anagrams](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/group-anagrams.md)                                        | 30-Day | 2020-04-06  |      |   | ✓   | [Link](https://leetcode.com/problems/group-anagrams/)                     |
+| 1407 | [Counting-Elements](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/counting-elements.md)                                  | 30-Day | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/counting-elements/)               |
 
 
 
