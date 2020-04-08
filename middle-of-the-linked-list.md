@@ -100,13 +100,13 @@ public:
         int size = 0;
         int count = 0;
         while(p != NULL) {
-            size++;
             p = p -> next;
+            size++;
         }
         p = head;
-        while(count <= size) {
-            count++;
+        while(count < size / 2) {
             p = p -> next;
+            count++;
         }
         return p;
     }
