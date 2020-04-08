@@ -51,6 +51,7 @@
 | 460    | [LFU缓存](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/lfu-cache.md)                                                          | 每日一题 | 2020-04-05  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/lfu-cache/)                                              |
 | 72     | [编辑距离](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/edit-distance.md)                                                     | 每日一题 | 2020-04-06  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/edit-distance/)                                          |
 | 面试题 | [旋转矩阵](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/rotate-matrix-lcci.md)                                                | 每日一题 | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/rotate-matrix-lcci/)                                     |
+| 面试题 | [机器人的运动范围](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/ji-qi-ren-de-yun-dong-fan-wei-lcof.md)                        | 每日一题 | 2020-04-08  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)                     |
     
 
 ## LeetCode_America
@@ -64,13 +65,10 @@
 |  122 | [Best-Time-to-Buy-and-Sell-Stock-Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/best-time-to-buy-and-sell-stock-ii.md) | 30-Day | 2020-04-05  |      |   | ✓   | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 |   49 | [Group-Anagrams](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/group-anagrams.md)                                        | 30-Day | 2020-04-06  |      |   | ✓   | [Link](https://leetcode.com/problems/group-anagrams/)                     |
 | 1407 | [Counting-Elements](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/counting-elements.md)                                  | 30-Day | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/counting-elements/)               |
+|  876 | [Middle-of-the-Linked-List](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/middle-of-the-linked-list.md)                  | 30-Day | 2020-04-07  |      |   | ✓   | [Link](https://leetcode.com/problems/middle-of-the-linked-list/)          |
 
 
 
-https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
-
-
-https://leetcode.com/problems/middle-of-the-linked-list/
 
 
 ## Contact me
