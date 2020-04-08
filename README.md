@@ -67,6 +67,10 @@
 
 
 
+https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
+
+
+https://leetcode.com/problems/middle-of-the-linked-list/
 
 
 ## Contact me

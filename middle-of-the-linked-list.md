@@ -51,12 +51,11 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode *slow, *fast;
-        slow = head;
-        fast = head;
-        while(fast == NULL || fast.next == NULL) {
-            slow = slow.next;
-            fast = fast.next.next;
+        ListNode *slow = head;
+        ListNode *fast = head;
+        while(fast != NULL && fast -> next != NULL) {
+            slow = slow -> next;
+            fast = fast -> next -> next;
         }
         return slow;
     }
