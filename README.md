@@ -53,6 +53,8 @@
 | 面试题 | [旋转矩阵](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/rotate-matrix-lcci.md)                                                | 每日一题 | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/rotate-matrix-lcci/)                                     |
 | 面试题 | [机器人的运动范围](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/ji-qi-ren-de-yun-dong-fan-wei-lcof.md)                        | 每日一题 | 2020-04-08  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)                     |
 | 22     | [括号生成](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/generate-parentheses.md)                                              | 每日一题 | 2020-04-09  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/generate-parentheses/)                                   |
+| 151    | [翻转字符串里的单词](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/reverse-words-in-a-string.md)                               | 每日一题 | 2020-04-10  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                              |
+| 887    | [鸡蛋掉落](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/super-egg-drop.md)                                                    | 每日一题 | 2020-04-11  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/super-egg-drop/)                                         |
     
 
 ## LeetCode_America
@@ -68,11 +70,12 @@
 | 1407 | [Counting-Elements](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/counting-elements.md)                                  | 30-Day | 2020-04-07  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/counting-elements/)               |
 |  876 | [Middle-of-the-Linked-List](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/middle-of-the-linked-list.md)                  | 30-Day | 2020-04-08  |      |   | ✓   | [Link](https://leetcode.com/problems/middle-of-the-linked-list/)          |
 |  844 | [Backspace-String-Compare](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/backspace-string-compare.md)                    | 30-Day | 2020-04-09  |      |   | ✓   | [Link](https://leetcode.com/problems/backspace-string-compare/)           |
+|  155 | [Min-Stack](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/min-stack.md)                                                  | 30-Day | 2020-04-10  |      |   | ✓   | [Link](https://leetcode.com/problems/min-stack/)                          |
+|  543 | [Diameter-of-Binary-Tree](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/diameter-of-binary-tree.md)                      | 30-Day | 2020-04-11  |      |   | ✓   | [Link](https://leetcode.com/problems/diameter-of-binary-tree/)            |
 
 
-https://leetcode-cn.com/problems/reverse-words-in-a-string/
 
-https://leetcode.com/problems/min-stack/
+
 
 
 
