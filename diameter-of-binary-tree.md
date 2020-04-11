@@ -26,7 +26,9 @@
 根据题目的说明，要找最大直径长度，但不一定要过根结点。如下图：
 
 <div align="center">
-    <img width="276px" src="https://runcoderhang.github.io/thumbnails/diameter-of-binary-tree01.png">
+    <br>
+    <img width="276px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/diameter-of-binary-tree01.png"></img>
+    <br>
 </div>
 
 根据上图二叉树，我们可以找到它的最大直径长度：3 。其中有 `[3, 2, 5, 4]` 和 `[3, 2, 5, 6]` 两个路径。
@@ -40,7 +42,9 @@
 - **树的高度（深度）**：就是树中结点的最大层数。
 
 <div align="center">
-    <img width="535px" src="https://runcoderhang.github.io/thumbnails/diameter-of-binary-tree02.png">
+    <br>
+    <img width="535px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/diameter-of-binary-tree02.png"></img>
+    <br>
 </div>
 
 而本题中，我们对二叉树进行递归遍历，寻找某结点左右子树的最大深度。即每次都返回： **`max(L, R) + 1`**
@@ -48,7 +52,9 @@
 左右子树的最大深度值进行计算：**`L + R + 1`**，可以得出该二叉树的最大直径。
 
 <div align="center">
-    <img width="280px" src="https://runcoderhang.github.io/thumbnails/diameter-of-binary-tree03.gif">
+    <br>
+    <img width="280px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/diameter-of-binary-tree03.gif"></img>
+    <br>
 </div>
 
 时间复杂度： **O(n)**
@@ -130,5 +136,5 @@ public:
 <div align="center">
     <hr style="height:1px;"/>
     <br>
-    <img width="200px" src="https://runcoderhang.github.io/thumbnails/wxgzh-hang.png">
+    <img width="200px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>
