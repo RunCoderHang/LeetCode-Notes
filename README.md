@@ -55,6 +55,8 @@
 | 22     | [括号生成](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/generate-parentheses.md)                                              | 每日一题 | 2020-04-09  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/generate-parentheses/)                                   |
 | 151    | [翻转字符串里的单词](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/reverse-words-in-a-string.md)                               | 每日一题 | 2020-04-10  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/reverse-words-in-a-string/)                              |
 | 887    | [鸡蛋掉落](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/super-egg-drop.md)                                                    | 每日一题 | 2020-04-11  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/super-egg-drop/)                                         |
+| 面试题 | [交点](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/intersection-lcci.md)                                                     | 每日一题 | 2020-04-12  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/intersection-lcci/)                                      |
+| 355    | [设计推特](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/design-twitter.md)                                                    | 每日一题 | 2020-04-13  | ✓    |   | ✓   | [Link](https://leetcode-cn.com/problems/design-twitter/)                                         |
     
 
 ## LeetCode_America
@@ -72,7 +74,8 @@
 |  844 | [Backspace-String-Compare](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/backspace-string-compare.md)                    | 30-Day | 2020-04-09  |      |   | ✓   | [Link](https://leetcode.com/problems/backspace-string-compare/)           |
 |  155 | [Min-Stack](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/min-stack.md)                                                  | 30-Day | 2020-04-10  |      |   | ✓   | [Link](https://leetcode.com/problems/min-stack/)                          |
 |  543 | [Diameter-of-Binary-Tree](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/diameter-of-binary-tree.md)                      | 30-Day | 2020-04-11  |      |   | ✓   | [Link](https://leetcode.com/problems/diameter-of-binary-tree/)            |
-
+| 1046 | [Last-Stone-Weight](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/last-stone-weight.md)                                  | 30-Day | 2020-04-12  |      |   | ✓   | [Link](https://leetcode.com/problems/last-stone-weight/)                  |
+|  525 | [Contiguous-Array](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/contiguous-array.md)                                    | 30-Day | 2020-04-13  |      |   | ✓   | [Link](https://leetcode.com/problems/contiguous-array/)                   |
 
 
 
