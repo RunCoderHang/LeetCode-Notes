@@ -59,6 +59,7 @@
 | 355    | [设计推特](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/design-twitter.md)                                                    | 每日一题 | 2020-04-13  | ✓    |   | ✓   | [Link](https://leetcode-cn.com/problems/design-twitter/)                                         |
 | 445    | [两数相加Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/add-two-numbers-ii.md)                                               | 每日一题 | 2020-04-14  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/add-two-numbers-ii/)                                     |
 | 542    | [01-矩阵](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/01-matrix.md)                                                          | 每日一题 | 2020-04-15  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/01-matrix/)                                              |
+| 56     | [合并区间](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/merge-intervals.md)                                                   | 每日一题 | 2020-04-16  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/merge-intervals/)                                        |
     
 
 ## LeetCode_America
@@ -80,6 +81,9 @@
 |  525 | [Contiguous-Array](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/contiguous-array.md)                                    | 30-Day | 2020-04-13  |      |   | ✓   | [Link](https://leetcode.com/problems/contiguous-array/)                                          |
 |      | [Perform-String-Shifts](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/perform-string-shifts.md)                          | 30-Day | 2020-04-14  |      |   | ✓   | [Link](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) |
 |  238 | [Product-of-Array-Except-Self](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/product-of-array-except-self.md)            | 30-Day | 2020-04-15  |      |   | ✓   | [Link](https://leetcode.com/problems/product-of-array-except-self/)                              |
+|  678 | [Valid-Parenthesis-String](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/valid-parenthesis-string.md)                    | 30-Day | 2020-04-16  |      |   | ✓   | [Link](https://leetcode.com/problems/valid-parenthesis-string/)                                  |
+
+
 
 
 
