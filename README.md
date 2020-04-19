@@ -62,7 +62,7 @@
 | 56     | ☆☆         | [合并区间](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/merge-intervals.md)                                                   | 每日一题 | 2020-04-16  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/merge-intervals/)                                        |
 | 55     | ☆☆         | [跳跃游戏](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/jump-game.md)                                                         | 每日一题 | 2020-04-17  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/jump-game/)                                              |
 | 11     | ☆☆         | [盛最多水的容器](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/container-with-most-water.md)                                   | 每日一题 | 2020-04-18  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/container-with-most-water/)                              |
-| 466    | ☆☆☆        | [统计重复个数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/count-the-repetitions.md)                                         | 每日一题 | 2020-04-19  | ✓    |   | ✓   | [Link](https://leetcode-cn.com/problems/count-the-repetitions/)                                  |
+| 466    | ☆☆☆        | [统计重复个数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/count-the-repetitions.md)                                         | 每日一题 | 2020-04-19  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/count-the-repetitions/)                                  |
     
 
 
