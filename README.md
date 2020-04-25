@@ -68,6 +68,7 @@
 | 面试题 | ☆☆         | [二叉树的右视图](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/binary-tree-right-side-view.md)                                 | 每日一题 | 2020-04-22  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/binary-tree-right-side-view/)                            |
 | 面试题 | ☆☆         | [硬币](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/coin-lcci.md)                                                             | 每日一题 | 2020-04-23  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/coin-lcci/)                                              |
 | 面试题 | ☆☆☆        | [数组中的逆序对](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/shu-zu-zhong-de-ni-xu-dui-lcof.md)                              | 每日一题 | 2020-04-24  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)                         |
+| 46     | ☆☆         | [全排列](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/permutations.md)                                                        | 每日一题 | 2020-04-25  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/permutations/)                                           |
     
 
 
