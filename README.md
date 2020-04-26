@@ -69,6 +69,7 @@
 | 面试题 | ☆☆         | [硬币](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/coin-lcci.md)                                                             | 每日一题 | 2020-04-23  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/coin-lcci/)                                              |
 | 面试题 | ☆☆☆        | [数组中的逆序对](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/shu-zu-zhong-de-ni-xu-dui-lcof.md)                              | 每日一题 | 2020-04-24  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)                         |
 | 46     | ☆☆         | [全排列](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/permutations.md)                                                        | 每日一题 | 2020-04-25  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/permutations/)                                           |
+| 23     | ☆☆☆        | [合并K个排列链表](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/merge-k-sorted-lists.md)                                       | 每日一题 | 2020-04-26  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/merge-k-sorted-lists/)                                   |
     
 
 
@@ -101,7 +102,8 @@
 |   560 | ☆☆         | [Subarray-Sum-Equals-K](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/subarray-sum-equals-k.md)                                                               | 30-Day | 2020-04-22  |      |   | ✓   | [Link](https://leetcode.com/problems/subarray-sum-equals-k/)                                     |
 |   201 | ☆☆         | [Bitwise-AND-of-Numbers-Range](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/bitwise-and-of-numbers-range.md)                                                 | 30-Day | 2020-04-23  |      |   | ✓   | [Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                              |
 |   146 | ☆☆         | [LRU-Cache](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/lru-cache.md)                                                                                       | 30-Day | 2020-04-24  |      |   | ✓   | [Link](https://leetcode.com/problems/lru-cache/)                                                 |
-
+|    55 | ☆☆         | [Jump-Game](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/jump-game.md)                                                                                       | 30-Day | 2020-04-25  |      |   | ✓   | [Link](https://leetcode.com/problems/jump-game/)                                                 |
+|  1143 | ☆☆         | [Longest-Common-Subsequence](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/longest-common-subsequence.md)                                                     | 30-Day | 2020-04-26  |      |   | ✓   | [Link](https://leetcode.com/problems/longest-common-subsequence/)                                |
 
 
 
