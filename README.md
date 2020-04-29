@@ -70,6 +70,10 @@
 | 面试题 | ☆☆☆        | [数组中的逆序对](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/shu-zu-zhong-de-ni-xu-dui-lcof.md)                              | 每日一题 | 2020-04-24  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)                         |
 | 46     | ☆☆         | [全排列](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/permutations.md)                                                        | 每日一题 | 2020-04-25  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/permutations/)                                           |
 | 23     | ☆☆☆        | [合并K个排列链表](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/merge-k-sorted-lists.md)                                       | 每日一题 | 2020-04-26  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/merge-k-sorted-lists/)                                   |
+| 33     | ☆☆         | [搜索旋转排序数组](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/search-in-rotated-sorted-array.md)                            | 每日一题 | 2020-04-27  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)                         |
+| 面试题 | ☆☆         | [数组中数字出现的次数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md)           | 每日一题 | 2020-04-28  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)            |
+| 1095   | ☆☆☆        | [山脉数组中查找目标值](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/find-in-mountain-array.md)                                | 每日一题 | 2020-04-29  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/find-in-mountain-array/)                                 |
+
     
 
 
@@ -104,6 +108,11 @@
 |   146 | ☆☆         | [LRU-Cache](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/lru-cache.md)                                                                                       | 30-Day | 2020-04-24  |      |   | ✓   | [Link](https://leetcode.com/problems/lru-cache/)                                                 |
 |    55 | ☆☆         | [Jump-Game](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/jump-game.md)                                                                                       | 30-Day | 2020-04-25  |      |   | ✓   | [Link](https://leetcode.com/problems/jump-game/)                                                 |
 |  1143 | ☆☆         | [Longest-Common-Subsequence](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/longest-common-subsequence.md)                                                     | 30-Day | 2020-04-26  |      |   | ✓   | [Link](https://leetcode.com/problems/longest-common-subsequence/)                                |
+|   221 | ☆☆         | [Maximal-Square](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/maximal-square.md)                                                                             | 30-Day | 2020-04-27  |      |   | ✓   | [Link](https://leetcode.com/problems/maximal-square/)                                            |
+|       | ☆☆         | [First-Unique-Number](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/first-unique-number.md)                                                                   | 30-Day | 2020-04-28  |      |   | ✓   | [Link](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/) |
+|   124 | ☆☆☆        | [Binary-Tree-Maximum-Path-Sum](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/binary-tree-maximum-path-sum.md)                                                 | 30-Day | 2020-04-29  |      |   | ✓   | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                              |
+
+
 
 
 
