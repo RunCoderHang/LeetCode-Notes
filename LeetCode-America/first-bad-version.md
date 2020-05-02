@@ -48,6 +48,8 @@ public:
 
 数组递增，可以用二分查找。
 
+`mid = left + (right - left) / 2` 的意义在于：`left` 和 `right` 相加有可能超过 `INT_MAX` 。
+
 ```c++
 class Solution {
 public:
