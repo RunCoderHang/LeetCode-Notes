@@ -76,6 +76,7 @@
 | 202    | ☆          | [快乐数](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/happy-number.md)                                                        | 每日一题 | 2020-04-30  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/happy-number/)                                           |
 | 21     | ☆          | [合并两个有序链表](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/merge-two-sorted-lists.md)                                    | 每日一题 | 2020-05-01  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                                 |
 | 3      | ☆☆         | [无重复字符的最长子串](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/longest-substring-without-repeating-characters.md)        | 每日一题 | 2020-05-02  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)         |
+| 53     | ☆          | [最大子序和](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/maximum-subarray.md)                                                | 每日一题 | 2020-05-03  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/maximum-subarray/)                                       |
 
     
 
@@ -117,10 +118,7 @@
 |       | ☆☆         | [Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree.md) | 30-Day | 2020-04-30  |      |   | ✓   | [Link](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/532/week-5/3315/)  |
 |   278 | ☆          | [First-Bad-Version](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/first-bad-version.md)                                                                                                                             | May    | 2020-05-01  |      |   | ✓   | [Link](https://leetcode.com/problems/first-bad-version/)                                         |
 |   771 | ☆          | [Jewels-and-Stones](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/jewels-and-stones.md)                                                                                                                             | May    | 2020-05-02  |      |   | ✓   | [Link](https://leetcode.com/problems/jewels-and-stones/)                                         |
-
-
-
-
+|   383 | ☆          | [Ransom-Note](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/ransom-note.md)                                                                                                                                         | May    | 2020-05-03  |      |   | ✓   | [Link](https://leetcode.com/problems/ransom-note/)                                               |
 
 
 
