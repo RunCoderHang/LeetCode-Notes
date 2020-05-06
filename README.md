@@ -78,8 +78,8 @@
 | 3      | ☆☆         | [无重复字符的最长子串](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/longest-substring-without-repeating-characters.md)        | 每日一题 | 2020-05-02  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)         |
 | 53     | ☆          | [最大子序和](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/maximum-subarray.md)                                                | 每日一题 | 2020-05-03  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/maximum-subarray/)                                       |
 | 45     | ☆☆☆        | [跳跃游戏Ⅱ](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/jump-game-ii.md)                                                     | 每日一题 | 2020-05-04  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/jump-game-ii/)                                           |
-
-    
+| 98     | ☆☆         | [验证二叉搜索树](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/validate-binary-search-tree.md)                                 | 每日一题 | 2020-05-05  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/validate-binary-search-tree/)                            |
+| 983    | ☆☆         | [最低票价](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/minimum-cost-for-tickets.md)                                          | 每日一题 | 2020-05-06  |      |   | ✓   | [Link](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)                               |
 
 
 
@@ -122,6 +122,8 @@
 |   771 | ☆          | [Jewels-and-Stones](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/jewels-and-stones.md)                                                                                                                             | May    | 2020-05-02  |      |   | ✓   | [Link](https://leetcode.com/problems/jewels-and-stones/)                                         |
 |   383 | ☆          | [Ransom-Note](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/ransom-note.md)                                                                                                                                         | May    | 2020-05-03  |      |   | ✓   | [Link](https://leetcode.com/problems/ransom-note/)                                               |
 |   476 | ☆          | [Number-Complement](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/number-complement.md)                                                                                                                             | May    | 2020-05-04  |      |   | ✓   | [Link](https://leetcode.com/problems/number-complement/)                                         |
+|   387 | ☆          | [First-Unique-Character-in-a-String](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/first-unique-character-in-a-string.md)                                                                                           | May    | 2020-05-05  |      |   | ✓   | [Link](https://leetcode.com/problems/first-unique-character-in-a-string/)                        |
+|   169 | ☆          | [Majority-Element](https://github.com/RunCoderHang/LeetCode-Notes/blob/master/LeetCode-America/majority-element.md)                                                                                                                               | May    | 2020-05-06  |      |   | ✓   | [Link](https://leetcode.com/problems/majority-element/)                                          |
 
 
 
